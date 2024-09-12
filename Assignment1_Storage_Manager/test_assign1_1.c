@@ -96,5 +96,6 @@ testSinglePageContent(void)
   // destroy new page file
   TEST_CHECK(destroyPageFile (TESTPF));  
   
+  free(ph); // heap memeory free
   TEST_DONE();
 }
