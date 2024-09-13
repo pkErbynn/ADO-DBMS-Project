@@ -18,9 +18,9 @@ The storage manager should:
 ### Teammates
 CS525: Advanced Database Organization - Assignment 1 - Storage-Manager
 Group #23: Member
-- John Kwesi Erbynn (email - A20)
-- Harry (email - A20)
-- Usman (email - A20)
+- Erbynn, John Kwesi (email - A20)
+- Thirumalai Bhuvaraghavan, Sreehari (email - A20)
+- Hameed, Usman (email - A20)
 
 ## Technologies/Platforms/Tools Used 
 1. C Programming Language
